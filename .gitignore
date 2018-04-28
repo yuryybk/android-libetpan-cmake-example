@@ -1,0 +1,24 @@
+*.iml
+.gradle
+local.properties
+.idea
+.DS_Store
+.externalNativeBuild
+
+# generated files
+bin/
+gen/
+build/
+.build/
+jniLibs/
+
+# other types
+*.o
+*.lo
+*.la
+*.am
+Makefile
+*.in
+.libs
+.deps
+*.rc
